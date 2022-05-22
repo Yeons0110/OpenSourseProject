@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjectEra/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidProjectEra/app/src/main/res/layout/exam4_1.xml" value="0.1" />
+        <entry key="..\:/AndroidProjectEra/app/src/main/res/layout/exam4_10.xml" value="0.144" />
+        <entry key="..\:/AndroidProjectEra/app/src/main/res/layout/exam4_11.xml" value="0.1" />
+        <entry key="..\:/AndroidProjectEra/app/src/main/res/layout/exam4_12.xml" value="0.1" />
+        <entry key="..\:/AndroidProjectEra/app/src/main/res/layout/exam4_13.xml" value="0.1" />
+        <entry key="..\:/AndroidProjectEra/app/src/main/res/layout/exam4_2.xml" value="0.1" />
+        <entry key="..\:/AndroidProjectEra/app/src/main/res/layout/exam4_3.xml" value="0.1" />
+        <entry key="..\:/AndroidProjectEra/app/src/main/res/layout/exam4_4.xml" value="0.1" />
+        <entry key="..\:/AndroidProjectEra/app/src/main/res/layout/exam4_5.xml" value="0.176" />
+        <entry key="..\:/AndroidProjectEra/app/src/main/res/layout/exam4_6.xml" value="0.1" />
+        <entry key="..\:/AndroidProjectEra/app/src/main/res/layout/exam4_7.xml" value="0.1" />
+        <entry key="..\:/AndroidProjectEra/app/src/main/res/layout/exam4_8.xml" value="0.2" />
+        <entry key="..\:/AndroidProjectEra/app/src/main/res/layout/exam4_9.xml" value="0.1" />
+        <entry key="..\:/AndroidProjectEra/app/src/main/res/layout/practice4_7.xml" value="0.1" />
+        <entry key="..\:/AndroidProjectEra/app/src/main/res/layout/practice4_8.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidProjectEra/app/src/main/res/layout/practice4_9.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

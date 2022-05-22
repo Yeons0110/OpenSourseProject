@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidText</string>
+    <string name="app_name_1">김성연의 첫 앱</string>
+    <string name="ch_display">글자 나타내기</string>
+    <string name="homepagebtn">홈페이지 열기</string>
+    <string name="radio_1_name">Q(10)</string>
+    <string name="radio_2_name">R(11)</string>
+</resources>
